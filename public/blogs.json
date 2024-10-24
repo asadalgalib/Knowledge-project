@@ -1,0 +1,67 @@
+[
+    {
+        "id": 101,
+        "cover": "https://smallbusinessbonfire.com/wp-content/uploads/2022/11/create-cover-images.jpeg",
+        "title": "The Silent Echo",
+        "author_img": "https://villa-albertine.org/wp-content/uploads/2023/11/Upscaled-David-Diop2-1-1-e1706654948961.png",
+        "post_date": "2023-05-12",
+        "reading_time": 6,
+        "hashtags": [
+            "#Fiction",
+            "#Thriller",
+            "#Suspense"
+        ]
+    },
+    {
+        "id": 102,
+        "cover": "https://www.shutterstock.com/image-photo/content-marketing-concepttop-view-hand-600nw-1746124472.jpg",
+        "title": "Chasing Shadows",
+        "author_img": "https://www.thestilettogang.com/wp-content/uploads/2023/09/author.1-1-1-1030x961.jpeg",
+        "post_date": "2023-07-18",
+        "reading_time": 8,
+        "hashtags": [
+            "#Adventure",
+            "#Action",
+            "#Mystery"
+        ]
+    },
+    {
+        "id": 103,
+        "cover": "https://img.freepik.com/free-photo/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background_23-2148178672.jpg",
+        "title": "Whispers in the Wind",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ds7mopqm1p3KR6ZiRCfmEESG9kqj0uwMTQ&s",
+        "post_date": "2023-09-01",
+        "reading_time": 5,
+        "hashtags": [
+            "#Romance",
+            "#Drama",
+            "#Poetry"
+        ]
+    },
+    {
+        "id": 104,
+        "cover": "https://img.freepik.com/free-photo/blue-surface-with-study-tools_23-2147864592.jpg?semt=ais_hybrid",
+        "title": "Into the Abyss",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH2cs4RQ4XHaxnALO_DsVZzhC-86u8Zfarg&s",
+        "post_date": "2023-11-03",
+        "reading_time": 9,
+        "hashtags": [
+            "#SciFi",
+            "#Exploration",
+            "#Adventure"
+        ]
+    },
+    {
+        "id": 105,
+        "cover": "https://img.freepik.com/free-photo/high-angle-plant-notebook-frame_23-2148785012.jpg",
+        "title": "The Enigma Code",
+        "author_img": "https://www.optimove.com/wp-content/uploads/2024/05/Shay-1-1.jpg",
+        "post_date": "2024-01-10",
+        "reading_time": 7,
+        "hashtags": [
+            "#History",
+            "#War",
+            "#Mystery"
+        ]
+    }
+]
