@@ -1,6 +1,7 @@
 [
     {
         "id": 101,
+        "name": "Mr. Raju",
         "cover": "https://smallbusinessbonfire.com/wp-content/uploads/2022/11/create-cover-images.jpeg",
         "title": "The Silent Echo",
         "author_img": "https://villa-albertine.org/wp-content/uploads/2023/11/Upscaled-David-Diop2-1-1-e1706654948961.png",
@@ -14,6 +15,7 @@
     },
     {
         "id": 102,
+        "name": "Mrs. Setara",
         "cover": "https://www.shutterstock.com/image-photo/content-marketing-concepttop-view-hand-600nw-1746124472.jpg",
         "title": "Chasing Shadows",
         "author_img": "https://www.thestilettogang.com/wp-content/uploads/2023/09/author.1-1-1-1030x961.jpeg",
@@ -27,6 +29,7 @@
     },
     {
         "id": 103,
+        "name": "Mr. Mostafa",
         "cover": "https://img.freepik.com/free-photo/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background_23-2148178672.jpg",
         "title": "Whispers in the Wind",
         "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ds7mopqm1p3KR6ZiRCfmEESG9kqj0uwMTQ&s",
@@ -40,6 +43,7 @@
     },
     {
         "id": 104,
+        "name": "Mr. Shakil",
         "cover": "https://img.freepik.com/free-photo/blue-surface-with-study-tools_23-2147864592.jpg?semt=ais_hybrid",
         "title": "Into the Abyss",
         "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH2cs4RQ4XHaxnALO_DsVZzhC-86u8Zfarg&s",
@@ -53,6 +57,7 @@
     },
     {
         "id": 105,
+        "name": "Mr. Rana",
         "cover": "https://img.freepik.com/free-photo/high-angle-plant-notebook-frame_23-2148785012.jpg",
         "title": "The Enigma Code",
         "author_img": "https://www.optimove.com/wp-content/uploads/2024/05/Shay-1-1.jpg",
